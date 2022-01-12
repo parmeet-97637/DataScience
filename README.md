@@ -6,7 +6,8 @@ Basic Topics :
 2. Jupyter Notebook Demo
 3. Python Introduction
 4. Python Strings
-5. Python Data Structure<br>
+5. Conditional Statements in Python
+6. Python Data Structure<br>
 </t>a. Lists<br>
 </t>b. Tuples<br>
 </t>c. sets/Frozensets<br>
