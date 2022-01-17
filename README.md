@@ -12,7 +12,7 @@ Basic Topics :
 </t>b. Tuples<br>
 </t>c. sets/Frozensets<br>
 </t>d. Dictionary
-
+7. Python Loops
 
 Note I will keep on updating this Readme file as and when the notebooks are created.
 
