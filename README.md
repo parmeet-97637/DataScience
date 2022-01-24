@@ -13,6 +13,9 @@ Basic Topics :
 </t>c. sets/Frozensets<br>
 </t>d. Dictionary
 7. Python Loops
-
+8. Python List Comprehensions
+9. Python Functions
+10. Python Lambda Functions
+11. Python Map, Filter & Reduce
 Note I will keep on updating this Readme file as and when the notebooks are created.
 
