@@ -12,10 +12,10 @@ Basic Topics :
 </t>b. Tuples<br>
 </t>c. sets/Frozensets<br>
 </t>d. Dictionary
-7. Python Loops
-8. Python List Comprehensions
-9. Python Functions
-10. Python Lambda Functions
-11. Python Map, Filter & Reduce
+7. Python Loops<br>
+8. Python List Comprehensions<br>
+9. Python Functions<br>
+10. Python Lambda Functions<br>
+11. Python Map, Filter & Reduce<br>
 Note I will keep on updating this Readme file as and when the notebooks are created.
 
