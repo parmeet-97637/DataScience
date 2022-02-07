@@ -17,5 +17,7 @@ Basic Topics :
 9. Python Functions<br>
 10. Python Lambda Functions<br>
 11. Python Map, Filter & Reduce<br>
+12. Python Error Handling<br>
+13. Python OOPs Concepts<br>
 Note I will keep on updating this Readme file as and when the notebooks are created.
 
