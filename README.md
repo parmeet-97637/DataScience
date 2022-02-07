@@ -19,5 +19,7 @@ Basic Topics :
 11. Python Map, Filter & Reduce<br>
 12. Python Error Handling<br>
 13. Python OOPs Concepts<br>
+14. Python Time Complexity<br>
+15. Python Searching Algorithms<br>
 Note I will keep on updating this Readme file as and when the notebooks are created.
 
